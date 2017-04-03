@@ -1,8 +1,3 @@
-# jihunim.github.io
-Jihun's page
-
-What I used for this page:
-
 Free Bootstrap Resume/CV Template for developers
 
 Theme name:
