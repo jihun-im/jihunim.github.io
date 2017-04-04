@@ -1,3 +1,20 @@
+
+@@경력
+주임연구원 VC
+폭스바겐 차량용 전장부품 개발. A-SPICE개발프로세스 (요구사항분석부터 모든 디자인 코딩 테스팅까지). 
+-Required good english communication skills in verbal and written English
+-탑승자 프로필 관리(FIFO slots stredegy), 휴대기기 주소록 다운로드(PBAP protocol, Second phase downloading), 대용량 처리 알고리즘(주소록검색: TRIE-algorithm, SHA-1 algorithm 
+, TRIE-algorithm
+ Asynchronous IO with Protobuf
+
+주임연구원 VC
+-LG IMS (IP Multimedia Subsystem) AoS(Always on Service)
+-안드로이드 FeliCa 어플(NFC-based) 제작 및 Test 어플리케이션 제작
+-자동화테스트 어플(Junit)
+
+
+
+
 @@자격증
 정보처리기사
 SCJP
